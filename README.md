@@ -9,7 +9,7 @@ Hi, I’m @ly-roger 👋
 - 🌐 Developing a social media strategy tailored to my strengths in IT and technology.
 
 💡 **My Skills**
-- 🛠 **Technical Expertise**: Proficient in web development, programming (HTML, CSS, JavaScript), and IT systems.
+- 🛠 **Technical Expertise**: I have strong skills in PowerShell scripting, which allows me to efficiently automate tasks, manage systems, and enhance productivity. My experience includes creating custom scripts to            streamline workflows and solve complex problems in IT environments..
 - 🤝 **Collaboration**: Experienced in teamwork for projects and open-source initiatives.
 - 🚀 **Problem Solver**: Trained to analyze and create solutions, a vital skill for technology and marketing.
 
