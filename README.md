@@ -14,7 +14,7 @@ Hi, I’m @ly-roger 👋
 - 🚀 **Problem Solver**: Trained to analyze and create solutions, a vital skill for technology and marketing.
 
 📩 **Contact**
-- Feel free to reach out via "ly_roger@outlook.com.
+- Feel free to reach out via ly_roger@outlook.com.
 
 ⚡ **Fun Fact**
 - I’m passionate about starting creative projects and continuously improving my skills!
